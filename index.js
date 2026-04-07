@@ -24,3 +24,8 @@ console.log(nomeDoCliente)
 let idade = 31 // Number
 let nomeDoVendedor = "Júnior" // String
 let funcionarioDoMes = true // Boolean
+
+// vetor ou array usado para armazenar uma coleção de dados
+
+let frutas = ["Maçã", "Banana", "Laranja"]
+console.log(frutas)
