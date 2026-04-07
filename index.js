@@ -18,3 +18,9 @@ console.log(" O Nome da nossa segunda cliente é: " + cliente)
 
 let nomeDoCliente = "João"
 console.log(nomeDoCliente)
+
+//Tipos de Variaveis
+
+let idade = 31 // Number
+let nomeDoVendedor = "Júnior" // String
+let funcionarioDoMes = true // Boolean
